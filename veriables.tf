@@ -7,6 +7,6 @@ variable "pet_length" {
 variable "pet_prefix" {
  description = "Prefix for the pet name"
  type = string
- default = "bootcamp"
+ default = "bootcamp_2"
 }
 
